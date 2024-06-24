@@ -1,2 +1,2 @@
 # breastcancer_pred
-This is my another project on Machine Learning. It is trained using  Support vector machine (SVM).do check it out
+This is my other project on Machine Learning. It is trained using  a Support vector machine (SVM).
